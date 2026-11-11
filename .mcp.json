@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "push200": {
+      "type": "http",
+      "url": "https://push200.com/api/mcp"
+    }
+  }
+}

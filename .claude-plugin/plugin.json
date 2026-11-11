@@ -1,0 +1,10 @@
+{
+  "name": "push200",
+  "displayName": "Push200",
+  "version": "1.0.0",
+  "description": "Get a phone app from its GitHub code into App Store Connect and Google Play without writing code. Claude explains what you need, checks what your apps still need, starts and cancels builds, and tells you in plain words how each build went.",
+  "author": { "name": "Push200", "url": "https://push200.com" },
+  "homepage": "https://push200.com",
+  "license": "MIT",
+  "keywords": ["mobile", "ios", "android", "app-store", "google-play", "testflight", "expo", "capacitor", "react-native", "flutter"]
+}
